@@ -3,6 +3,12 @@
 
 This project provides a complete exploratory analysis of the SemEval-2026 Task 13, Subtask A dataset.
 
+Group members: 
+            Rohaan Ali (506788)
+            Malik Abdullah Naeem (520654)
+            Syed Abbas Raza (517626)
+            Muhammad Saif Jamal (509165)
+            
 
 **It includes:**
 
